@@ -30,9 +30,13 @@ Pulications
 Teaching
 ------
 MS&E 226, Fundamentals of Data Science
+
 MS&E 125, Applied Statistics
+
 MS&E 221, Stochastic Modeling
+
 MS&E 121, Introduction to Stochastic Modeling
+
 
 Hobbies
 ------
