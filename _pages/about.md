@@ -14,6 +14,14 @@ My research interest is mainly on experiment design for online platforms, using 
 
 Before coming to Stanford, I completed a Bachelor degree in Engineering and a Bachelor degree in Economics from Peking University, during which I worked with [Chenxu Li](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=cxli) from Guanghua School of Management and [Jie Song](https://en.coe.pku.edu.cn/faculty/facultyaz/891230.htm) from College of Engineering.
 
+CV
+------
+[Here](linjiawu.github.io/files/Linjia_CV.pdf)
+
+
+Pulications
+------
+
 
 Hobbies
 ------
