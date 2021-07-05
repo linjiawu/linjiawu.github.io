@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD student in the Department of Management Science & Engineering at Stanford University. I am fortunately advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/).
+I am a fourth year PhD student in the Department of Management Science & Engineering at Stanford University where I'm fortunately advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/). I am also mentored by [Peter Glynn](https://web.stanford.edu/~glynn/). I am a member of [Operations Resarch](https://or.stanford.edu) group in MS&E.
 
-My research interest is mainly on experiment design for online platforms, using techniques from stochastic modeling and concepts from causal inference. I am also interested in applying techniques from operations research and probability to market matching problems.
+My research interest is mainly on experimental design for online platforms, using techniques from stochastic modeling and concepts from causal inference. I am also interested in applying techniques from operations research and probability to market matching problems.
 
-Before coming to Stanford, I completed a Bachelor degree in Engineering and a Bachelor degree in Economics from Peking University, during which I worked with [Chenxu Li](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=cxli) from Guanghua School of Management and [Jie Song](https://en.coe.pku.edu.cn/faculty/facultyaz/891230.htm) from College of Engineering.
+Before coming to Stanford, I completed a Bachelor degree in Engineering and a Bachelor degree in Economics from Peking University, during which I worked on stochastic simulation with [Chenxu Li](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=cxli) from Guanghua School of Management and healthcare management with [Jie Song](https://en.coe.pku.edu.cn/faculty/facultyaz/891230.htm) from the College of Engineering.
 
 CV
 ------
