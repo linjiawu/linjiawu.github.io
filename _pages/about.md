@@ -16,7 +16,7 @@ Before coming to Stanford, I completed a Bachelor degree in Engineering and a Ba
 
 CV
 ------
-[Here](http://linjiawu.github.io/files/Linjia_CV.pdf)
+[Here](http://linjiawu.github.io/files/paper1.pdf)
 
 
 Pulications
