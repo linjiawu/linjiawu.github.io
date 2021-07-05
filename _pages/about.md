@@ -43,7 +43,3 @@ MS&E 121, Introduction to Stochastic Modeling
 Hobbies
 ------
 Baking, piano, badminton
-
-Ex
-------
-Bc Lou
