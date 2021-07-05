@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Linjia Wu"
 title_separator          : "-"
-name                     : &name "Linjia Wu"
+name                     : &name "LBC"
 description              : &description "personal description"
 url                      : https://linjiawu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "LBC"
+  name             : "Linjia Wu"
   avatar           : "profile.png"
   bio              : "PhD in Operations Research @ Stanford"
   location         : "California"
