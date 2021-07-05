@@ -12,7 +12,7 @@ I am a 4th year PhD student in the Department of Management Science & Engineerin
 
 My research interest is mainly on experiment design for online platforms, using techniques from stochastic modeling and concepts from causal inference. I am also interested in applying techniques from operations research and probability to market matching problems.
 
-Before coming to Stanford, I completed a Bachelor degree in Engineering and a Bachelor degree in Economics from Peking University, during which I worked with [Chenxu Li (Guanghua School of Management)](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=cxli) and [Jie Song](https://en.coe.pku.edu.cn/faculty/facultyaz/891230.htm).
+Before coming to Stanford, I completed a Bachelor degree in Engineering and a Bachelor degree in Economics from Peking University, during which I worked with [Chenxu Li](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=cxli) from Guanghua School of Management and [Jie Song](https://en.coe.pku.edu.cn/faculty/facultyaz/891230.htm) from College of Engineering.
 
 
 Hobbies
