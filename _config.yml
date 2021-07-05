@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BC"
+title                    : "Linjia Wu"
 title_separator          : "-"
 name                     : &name "Linjia Wu"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Linjia Wu"
+  name             : "The Ex"
   avatar           : "profile.png"
   bio              : "PhD in Operations Research @ Stanford"
   location         : "California"
