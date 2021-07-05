@@ -16,11 +16,14 @@ Before coming to Stanford, I completed a Bachelor degree in Engineering and a Ba
 
 CV
 ------
-[Here](linjiawu.github.io/files/Linjia_CV.pdf)
+[Here](https://linjiawu.github.io/files/Linjia_CV.pdf)
 
 
 Pulications
 ------
+##[Exact Simulation of the Ornstein-Uhlenbeck Driven Stochastic Volatility Model](https://www.sciencedirect.com/science/article/pii/S0377221718309986)
+ with Chenxu L. European Journal of Operations Research, 2019, vol 275, pp 768-779
+
 
 
 Hobbies
