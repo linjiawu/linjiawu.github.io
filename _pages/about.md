@@ -21,7 +21,7 @@ CV
 
 Pulications
 ------
-[<b>Exact Simulation of the Ornstein-Uhlenbeck Driven Stochastic Volatility Model</b>](https://www.sciencedirect.com/science/article/pii/S0377221718309986) with Chenxu L. <i>European Journal of Operations Research, 2019, vol 275, pp 768-779</i>
+[<b>Exact Simulation of the Ornstein-Uhlenbeck Driven Stochastic Volatility Model</b>](https://www.sciencedirect.com/science/article/pii/S0377221718309986) with Li, C. <i>European Journal of Operations Research, 2019, vol 275, pp 768-779</i>
 
 
 [<b>Asymptotically Optimal Control of a Centralized Dynamic Matching Market with General Utilities</b>](https://arxiv.org/abs/2002.03205) with Blanchet, J.H., Reiman, M.I., Shah, V. and Wein, L.M, Wu L. <i>Operations Research (accepted)</i>
