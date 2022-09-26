@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Linjia Wu"
   avatar           : "profile.JPG"
-  bio              : "PhD in Operations Research @ Stanford"
+  bio              : "Quant @ Two Sigma"
   location         : "New York"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : linjiawu at stanford dooot edu
+  googlescholar    :  "https://scholar.google.com/citations?user=McwfYeMAAAAJ&hl=en"
+  email            :  #
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
