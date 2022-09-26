@@ -38,7 +38,9 @@ MS&E 221, Stochastic Modeling
 MS&E 121, Introduction to Stochastic Modeling
 
 
-
+Contact
+------
+Email: linjiawu [at] gmail.com
 
 Hobbies
 ------
