@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a quantitative researcher at [Two Sigma Investments](https://www.twosigma.com). I received my PhD in the Department of Management Science & Engineering at Stanford University. I'm fortunately advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/) and mentored by [Peter Glynn](https://web.stanford.edu/~glynn/). I am also a member of [Operations Resarch](https://or.stanford.edu) group in MS&E.
+I am currently a quantitative researcher at [Two Sigma Investments](https://www.twosigma.com). I received my PhD in the [Department of Management Science & Engineering](https://msande.stanford.edu) at Stanford University. I'm fortunately advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/) and mentored by [Peter Glynn](https://web.stanford.edu/~glynn/). I am also a member of [Operations Resarch](https://or.stanford.edu) group in MS&E.
 
 My research interest is mainly on experimental design for online platforms, using techniques from stochastic modeling and concepts from causal inference to extract actionable insights for practitioners. I am also interested in applying techniques from operations research and probability to market matching problems.
 
