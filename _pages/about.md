@@ -40,7 +40,7 @@ MS&E 121, Introduction to Stochastic Modeling
 
 Contact
 ------
-Email: linjiawu [at] gmail.com
+Email: wulinjia1 [at] gmail.com
 
 Hobbies
 ------
